@@ -4,5 +4,4 @@
 
 !.gitignore
 data/CelebA
-dcgan/fakes/*
-dcgan/progress/*
+dcgan/out/*.pth
