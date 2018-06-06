@@ -1,0 +1,8 @@
+# Ignore everything not added
+.*
+*.pyc
+
+!.gitignore
+data/CelebA
+dcgan/fakes/*
+dcgan/progress/*
